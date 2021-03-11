@@ -1,8 +1,8 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
-Updated: 8/2/2021
+Grupo: DIU1_Singapur.  Curso: 2020/21 
+Updated: 11/3/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,10 +15,11 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Requena García, Leire      :octocat:     
+ * :bust_in_silhouette:  Romero Lara, Clara María    :octocat:
+ * :bust_in_silhouette:  Rubio Gil, Atanasio José    :octocat:
 
------ 
+-----
 
 
 
@@ -48,10 +49,11 @@ Miembros
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>  > SE deben incluir claramente los siguientes elementos
+>>>  >
+>>>  > - Enlace al documento:  (sube a github el xls/pdf) 
+>>>  - Valoración final (numérica): 
+>>>  - Comentario sobre la valoración:  (60-120 caracteres)
 
 
 ## Paso 2. UX Design  
@@ -67,8 +69,8 @@ Miembros
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
-    
+
+
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
@@ -155,7 +157,7 @@ Término | Significado
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
