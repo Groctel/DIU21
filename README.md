@@ -32,7 +32,7 @@ Miembros
 -----
 
 <!-- >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) -->
-Tanto Booking como AirBNB son dos servicios establecidos en el mercado del turismo.
+Tanto [Booking](https://github.com/Groctel/DIU21/blob/master/P1/analisis_competitivo.md#bookingcom-an%C3%A1lisis-competitivo) como [AirBNB](https://github.com/Groctel/DIU21/blob/master/P1/analisis_competitivo.md#airbnb-an%C3%A1lisis-competitivo) son dos servicios establecidos en el mercado del turismo.
 Su gran cuota de mercado y su servicio de atención al cliente deficiente hace que los clientes descontentos se hagan ver en las redes sociales.
 A pesar de ello, se mantienen estables.
 
