@@ -1,17 +1,17 @@
 # DIU21
-Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
+Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 
-Grupo: DIU1_Singapur.  Curso: 2020/21 
+Grupo: DIU1_Singapur.  Curso: 2020/21
 Updated: 11/3/2021
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto:
+>>> Decida el nombre corto de su propuesta en la práctica 2
 
-Descripción: 
+Descripción:
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Describa la idea de su producto en la práctica 2
 
-Logotipo: 
+Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
@@ -24,38 +24,42 @@ Miembros
 
 
 
-# Proceso de Diseño 
+# Proceso de Diseño
 
-## Paso 1. UX Desk Research & Analisis 
+## Paso 1. UX Desk Research & Analisis
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+<!-- >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) -->
+Tanto Booking como AirBNB son dos servicios establecidos en el mercado del turismo.
+Su gran cuota de mercado y su servicio de atención al cliente deficiente hace que los clientes descontentos se hagan ver en las redes sociales.
+A pesar de ello, se mantienen estables.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+<!-- >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres) -->
+Hemos seleccionado a [Iñani Etxebarria](https://github.com/Groctel/DIU21/blob/master/P1/persona-i%C3%B1aki.png) y a [Almudena Smith](https://github.com/Groctel/DIU21/blob/master/P1/persona-almudena.png) porque ambas presentan situaciones de vida de gran dinamismo y son de clases sociales totalmente opuestas.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>  > SE deben incluir claramente los siguientes elementos
->>>  >
->>>  > - Enlace al documento:  (sube a github el xls/pdf) 
->>>  - Valoración final (numérica): 
->>>  - Comentario sobre la valoración:  (60-120 caracteres)
+<!-- >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad -->
+<!-- >>>  > SE deben incluir claramente los siguientes elementos -->
+<!-- >>>  > -->
+<!-- >>>  > - Enlace al documento:  (sube a github el xls/pdf) -->
+<!-- >>>  - Valoración final (numérica): -->
+<!-- >>>  - Comentario sobre la valoración:  (60-120 caracteres) -->
+[Analizamos Booking](https://github.com/Groctel/DIU21/blob/master/P1/Usability-review-template.pdf) porque tiene el modelo de negocio más cercano al nuestro, basado en hoteles más que en alquileres.
+Sus 78 puntos nos indican que ofrece un servicio de calidad con despecfectos que podrían ser mejorables, pero nada fuera de lo común.
 
-
-## Paso 2. UX Design  
+## Paso 2. UX Design
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
@@ -65,7 +69,7 @@ Miembros
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
+ Interesante | Críticas
 | ------------- | -------
   Preguntas | Nuevas ideas
 
@@ -79,21 +83,21 @@ Miembros
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Propuesta de valor
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) 2.b Tasks analysis
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Definir "User Map" y "Task Flow" ...
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+>>> Identificar términos para diálogo con usuario
 
-Término | Significado     
+Término | Significado
 | ------------- | -------
   Login¿?  | acceder a plataforma
 
@@ -101,7 +105,7 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación )
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -111,7 +115,7 @@ Término | Significado
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Plantear Diseño visual con una guía de estilos visual (moodboard)
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
@@ -120,13 +124,13 @@ Término | Significado
 ----
 
 
->>> Plantear Landing Page 
+>>> Plantear Landing Page
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Estudio de Guidelines y Patrones IU a usar
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -142,7 +146,7 @@ Término | Significado
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
-## Paso 4. Evaluación 
+## Paso 4. Evaluación
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
@@ -160,10 +164,10 @@ Término | Significado
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
+| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -173,7 +177,7 @@ Término | Significado
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> Adjuntar captura de imagen con los resultados + Valoración personal
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -183,21 +187,21 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
->>> Valoración personal 
+>>> Valoración personal
 
 
-## Paso 5. Evaluación de Accesibilidad  
+## Paso 5. Evaluación de Accesibilidad
 
 
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
+![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 ----
 
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
+>>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido
 
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
+>>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
+>>> 5.b) Uso de simuladores de accesibilidad
 
->>> (uso de tabla de datos, indicar herramientas usadas) 
+>>> (uso de tabla de datos, indicar herramientas usadas)
 
 >>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
@@ -206,7 +210,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos
 
 
 
