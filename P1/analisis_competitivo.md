@@ -38,7 +38,7 @@ Los artículos de consulta y atención al cliente son deficientes: La informaci�
 
 ### **Estrategia de contenido del competidor, promoción del contenido de marketing**
 
-Vamos a analizar tres redes sociales: Facebook, Instagram, y Twitter. Estas tres redes se consideran el "Big Three", y las publicaciones son prácticamente las mismas entre ellas. Booking publica aproximadamente 2/3 veces por semana con *posts* técnicamente correctos pero poco originales.
+Vamos a analizar tres redes sociales: Facebook, Instagram, y Twitter. Estas tres redes se consideran el *"Big Three"*, y las publicaciones son prácticamente las mismas entre ellas. Booking publica aproximadamente 2/3 veces por semana con *posts* técnicamente correctos pero poco originales.
 
 
 
@@ -137,41 +137,31 @@ El servicio de atención al cliente, aunque bien complementado por los artículo
 
 ### **Estrategia de contenido del competidor, promoción del contenido de marketing**
 
-```
-cambiar x airbnb
-```
+Vamos a analizar tres redes sociales: Facebook, Instagram, y Twitter. Estas tres redes se consideran el *"Big Three"*. Aibnb es bastante activa en estas redes, entre las que reparte su contenido y lo adecua a la demografía de los usuarios de la aplicación
 
-Vamos a analizar tres redes sociales: Facebook, Instagram, y Twitter. Estas tres redes se consideran el "Big Three", y las publicaciones son prácticamente las mismas entre ellas. Booking publica aproximadamente 2/3 veces por semana con *posts* técnicamente correctos pero poco originales.
-
-
-
-##### Facebook: 14.994.768 *likes*
+##### Facebook: 16 136 228 *likes*
 
 - Cantidad de posts: Facebook no proporciona esta información
 
-Su red más grande con diferencia. Las demográficas más jóvenes tienden más a otras redes sociales, pero despreciar el tirón de Facebook sería una insensatez.
-
-Tanto en Facebook como en sus otras redes, las publicaciones son en inglés, pero consultas en otros idiomas suelen ser respondidas en el mismo idioma. En Facebook reciben un flujo particularmente alto de estas consultas.
+Una gran cantidad de seguidores, pero no es su red más activa. Facebook reúne grandes cantidades de usuarios, pero lo actualizan menos que Twitter e Instagram. Sus post son más estáticos que en otras plataformas, la gente comenta sus consultas y son respondidos normalmente con un mensaje genérico.
 
 
 
-##### Instagram: 1.425.121 seguidores
+##### Instagram: 4.786.698 seguidores
 
-- Cantidad de posts: 1.116 posts
+- Cantidad de posts: 2.922 posts
 
-Instagram cuenta también con una gran cantidad de seguidores. Las publicaciones son más abundantes que en las otras redes, dada la naturaleza de la plataforma suelen subir fotos de múltiples destinos. Reciben consultas, pero suelen ser simplemente redirigidas a la página de atención al cliente.
-
-
-
-##### Twitter: 172.423 seguidores
-
-- Cantidad de posts: 83.800 tweets (aprox.)
-
-La plataforma menos desarrollada de la empresa. Si bien responden a personas que les mencionan para mostrar sus viajes, las consultas casi no se atienden. Tienen una praxis un tanto extraña en cómo muestran su perfil, pues patrocinan artículos en su *bio* y esto es poco habitual en cuentas corporativas de esta red social.
+Aún teniendo menos seguidores que en Facebook, Instagram es definitivamente su red social más popular. Esto se debe en parte a la naturaleza de Instagram y de Airbnb: publicar fotos de alojamientos idílicos es una forma fácil de ganar seguidores y darse publicidad.
 
 
 
-Las publicaciones en estas plataformas suelen tomar la forma de enlaces internos a su *newsletter* y vídeos cortos. Esto podría ser potencialmente un problema, ya que obliga a sus seguidores a tomarse la molestia de cambiar de página para consumir su contenido. A su favor, todo el contenido está correctamente etiquetado e incita de forma implícita a utilizar sus servicios
+##### Twitter: 733.093 seguidores
+
+- Cantidad de posts: 47.700 tweets (aprox.)
+
+Tienen múltiples cuentas regionales, pero analizaremos la cuenta principal. Hacen un muy buen uso de la plataforma, lo que denota *community manager* que la conoce bien. Las cuentas corporativas que no prestan atención a este apartado están condenadas a la indiferencia más absoluta en esta red social.
+
+La cuenta participa en los formatos de *memes* de moda, los cuales suelen incitar a los seguidores a participar en conversaciones y *tag*s. 
 
 
 
@@ -179,33 +169,19 @@ Las publicaciones en estas plataformas suelen tomar la forma de enlaces internos
 
 ### **Cuantificar el *engagement* en su contenido**
 
-```
-cambiar x airbnb
-```
+Airbnb conoce bien a su público: apuesta fuerte por Twitter, Instagram y TikTok; los influencers, la oferta cultural... Su *engagement* en instagram es casi impecable, un *feed* de publicaciones rebosantes de gente comentando positivamente y sin apenas críticas. No es el caso de las otras dos redes analizadas: Twitter y Facebook.
 
-Si bien booking cuenta con una cantidad de seguidores más que considerable, su *engagement* y presencia en redes sociales es francamente mala.
+Aunque sepan mantenerse al día con las modas de Twitter, buena parte de la gente que comenta es con quejas muy duras sobre alojamientos que no eran lo que parecían, reembolsos que no llegan y cuentas borradas. En Facebook no mejora, pues son estas mismas quejas pero con aún menos respuestas genuinas a los post. Como actualizan menos, los comentarios se acumulan en Facebook sin mucha más respuesta que un mensaje prefabricado.
 
-El *engagement* es mínimo en todas sus redes: Una de las publicaciones con más impacto en los últimos meses respecto a las medidas covid, publicada en Facebook, cuenta con aproximadamente 18.000 comentarios (ni el 0.002% de sus seguidores), sin tener en cuenta cuántos de ellos son respuestas de la propia empresa a comentarios de consulta.
-
-La red que más sufre esto es Twitter: la mayoría de las publicaciones no alcanzan ni la decena de "me gusta". Curiosamente, las respuestas sí suelen llegar a cifras mayores, pero a causa de avalanchas de quejas de sus usuarios. Esto nos lleva al siguiente punto: su presencia.
-
-Su presencia en redes es de falta de profesionalidad, mala atención al cliente y poco menos que estafadores. Una publicación en Twitter con 6 "me gusta" y 21 comentarios con reclamaciones (múltiples sin respuesta) es una mala señal para el consumidor. En Instagram también cuentan con múltiples publicaciones boicoteadas por comentarios respecto a distintas polémicas.
-
-Conociendo esto, no es de extrañar que no publiciten explícitamente sus redes. Están lo suficientemente bien establecidos como para no centrar sus esfuerzos publicitarios en redes sociales. Por ello y por la calidad de las anteriores, no les dan demasiada visibilidad.
+A parte de esto, no podemos olvidar que en estas redes hay grupos extremadamente críticos con Airbnb dada su relación con el incremento de precio de los alquileres en zonas turísticas y la especulación de la vivienda; véase el movimiento "Tourist Go Home". Sería insensato ignorar este hecho a la hora de analizar la empresa en su totalidad.
 
 
 
 ---
 
-### **Análisis SWOT: Strengths, Weaknesses, Opportunities, Threats**
-
-```
-echarle un ojillo más cuando revisemos las redes sociales, sobre todo las opportunities
-```
-
-
+### Análisis SWOT: Strengths, Weaknesses, Opportunities, Threats
 
 - **Strengths:** Interfaz muy cuidada, buena publicidad y marketing, extremadamente conocida. Su modelo de alquiler de casas particulares difiere de la experiencia clásica del hotel y eso juega a su favor. Buenas páginas de consulta.
-- **Weaknesses:** imagen asociada a la especulación y la subida de precios de los alquileres residenciales.
-- **Opportunities:** ampliación hacia demográficas de mayor edad vía asistencia telefónica
+- **Weaknesses:** falta de garantías, imagen asociada a la especulación y la subida de precios de los alquileres residenciales.
+- **Opportunities:** mejor uso de Facebook, ampliación hacia demográficas de mayor edad vía asistencia telefónica
 - **Threats:** regulaciones del gobierno para los alquileres vacacionales/de corta estancia, el modelo puede ser sustituido por el boca a boca. 
