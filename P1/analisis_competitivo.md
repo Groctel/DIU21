@@ -1,6 +1,6 @@
 # DIU P1: Análisis de interfaz de usuario. Revisión de usabilidad
 
-## ANÁLISIS COMPETITIVO
+## BOOKING.COM: Análisis competitivo
 
 Hemos escogido booking.com como competidor directo de nuestra plataforma de planificación de viajes. Booking es un servicio que satisface la misma necesidad que nuestra plataforma y, aunque opera globalmente, es una compañía basada en Europa.
 
@@ -38,7 +38,7 @@ Los artículos de consulta y atención al cliente son deficientes: La informaci�
 
 ### **Estrategia de contenido del competidor, promoción del contenido de marketing**
 
-Vamos a analizar tres redes sociales: Facebook, Instagram, y Twitter. Estas tres redes se consideran el "Big Three", y las publicaciones son prácticamente las mismas entre ellas. Booking publica aproximadamente 2/3 veces por semana con *posts* técnicamente correctos pero poco originales.
+Vamos a analizar tres redes sociales: Facebook, Instagram, y Twitter. Estas tres redes se consideran el *"Big Three"*, y las publicaciones son prácticamente las mismas entre ellas. Booking publica aproximadamente 2/3 veces por semana con *posts* técnicamente correctos pero poco originales.
 
 
 
@@ -96,3 +96,92 @@ Conociendo esto, no es de extrañar que no publiciten explícitamente sus redes.
 - **Weaknesses:** Atención al cliente deficiente, exceso de información en pantalla, redes sociales mal llevadas, contenido monótono y poco original, mala imagen en redes.
 - **Opportunities:** Mejora de las redes sociales, ampliación de su oferta de servicios, reestructuración de ciertos aspectos de la página web, mejora de la atención al cliente, ampliación hacia demográficas de mayor edad vía asistencia telefónica.
 - **Threats:** Empresas con mejor imagen pública en el mismo campo, generación de falta de confianza hacia ellos, falta de lealtad por parte de sus usuarios.
+
+
+
+## AIRBNB: Análisis competitivo
+
+A modo de comparación, vamos a analizar también la empresa competidora Airbnb. Desde un enfoque distinto, se satisface la misma necesidad de alojamiento. Es una empresa estadounidense, pero de indudable influencia a nivel mundial.
+
+### **Determinar qué productos ofrece nuestro competidor**
+
+Airbnb es conocida por su servicio de alquileres vacacionales: particulares (y en menor medida, empresas) alquilan residencias a viajeros. La página también oferta experiencias, experiencias online y aventuras. Las aventuras consisten en alojamiento+dietas+experiencias con guías locales. Estos packs son realmente completos, pero la atracción principal de airbnb sigue siendo el alojamiento.
+
+Airbnb no destaca realmente por sus precios, sino por la posibilidad de alquilar un alojamiento entero y dividir el precio entre amigos. Al ser publicaciones generalmente de particulares, no existe una categoría de ofertas o descuentos, lo cual es un detrimento, pero entendible.
+
+
+
+---
+
+### **Investigar sus técnicas de venta, ventajas que ofrece y resultados**
+
+Airbnb no dispone de atención telefónica o en persona, es un canal estrictamente online. Esto atrae a demográficas jóvenes habituadas a internet, pero para personas más mayores acostumbradas a las agencias de viajes es una gran desventaja.
+
+Para un usuario familiarizado con internet y procesos de venta, la página está realmente bien optimizada: una buena interfaz, con la información necesaria a simple vista y procesos *straightforward*.
+
+La mayor atracción de airbnb es el modelo de alojamiento reinventado: el alquiler de viviendas ofrece una experiencia distinta al hotel clásico. Nos da la opción de un lugar familiar, que además podemos compartir con más huéspedes.
+
+---
+
+### **Analizar cómo el competidor hace marketing de sus productos**
+
+Airbnb se patrocina en televisión, internet y espacios públicos. También participan en patrocinios con ayuntamientos, *influencers* y asociaciones culturales, son una empresa con mucha presencia. Publican una *newsletter* y cuentan con una extensa página de recomendaciones para anfitriones, viajeros, guías... Cualquier potencial usuario tiene guías y páginas de consulta para muchísimos casos de uso.
+
+Tienen cuentas en gran variedad de redes sociales, entre ellas: Twitter, Instagram, Facebook, LinkedIn, TikTok o Youtube.  Buena parte de sus campañas se basan en el marketing de *influencers*, más que la publicidad tradicional.
+
+El servicio de atención al cliente, aunque bien complementado por los artículos de consulta, requiere una cuenta en la plataforma. No proporciona un correo o teléfono de atención general.
+
+
+
+---
+
+### **Estrategia de contenido del competidor, promoción del contenido de marketing**
+
+Vamos a analizar tres redes sociales: Facebook, Instagram, y Twitter. Estas tres redes se consideran el *"Big Three"*. Aibnb es bastante activa en estas redes, entre las que reparte su contenido y lo adecua a la demografía de los usuarios de la aplicación
+
+##### Facebook: 16 136 228 *likes*
+
+- Cantidad de posts: Facebook no proporciona esta información
+
+Una gran cantidad de seguidores, pero no es su red más activa. Facebook reúne grandes cantidades de usuarios, pero lo actualizan menos que Twitter e Instagram. Sus post son más estáticos que en otras plataformas, la gente comenta sus consultas y son respondidos normalmente con un mensaje genérico.
+
+
+
+##### Instagram: 4.786.698 seguidores
+
+- Cantidad de posts: 2.922 posts
+
+Aún teniendo menos seguidores que en Facebook, Instagram es definitivamente su red social más popular. Esto se debe en parte a la naturaleza de Instagram y de Airbnb: publicar fotos de alojamientos idílicos es una forma fácil de ganar seguidores y darse publicidad.
+
+
+
+##### Twitter: 733.093 seguidores
+
+- Cantidad de posts: 47.700 tweets (aprox.)
+
+Tienen múltiples cuentas regionales, pero analizaremos la cuenta principal. Hacen un muy buen uso de la plataforma, lo que denota *community manager* que la conoce bien. Las cuentas corporativas que no prestan atención a este apartado están condenadas a la indiferencia más absoluta en esta red social.
+
+La cuenta participa en los formatos de *memes* de moda, los cuales suelen incitar a los seguidores a participar en conversaciones y *tag*s. 
+
+
+
+---
+
+### **Cuantificar el *engagement* en su contenido**
+
+Airbnb conoce bien a su público: apuesta fuerte por Twitter, Instagram y TikTok; los influencers, la oferta cultural... Su *engagement* en instagram es casi impecable, un *feed* de publicaciones rebosantes de gente comentando positivamente y sin apenas críticas. No es el caso de las otras dos redes analizadas: Twitter y Facebook.
+
+Aunque sepan mantenerse al día con las modas de Twitter, buena parte de la gente que comenta es con quejas muy duras sobre alojamientos que no eran lo que parecían, reembolsos que no llegan y cuentas borradas. En Facebook no mejora, pues son estas mismas quejas pero con aún menos respuestas genuinas a los post. Como actualizan menos, los comentarios se acumulan en Facebook sin mucha más respuesta que un mensaje prefabricado.
+
+A parte de esto, no podemos olvidar que en estas redes hay grupos extremadamente críticos con Airbnb dada su relación con el incremento de precio de los alquileres en zonas turísticas y la especulación de la vivienda; véase el movimiento "Tourist Go Home". Sería insensato ignorar este hecho a la hora de analizar la empresa en su totalidad.
+
+
+
+---
+
+### Análisis SWOT: Strengths, Weaknesses, Opportunities, Threats
+
+- **Strengths:** Interfaz muy cuidada, buena publicidad y marketing, extremadamente conocida. Su modelo de alquiler de casas particulares difiere de la experiencia clásica del hotel y eso juega a su favor. Buenas páginas de consulta.
+- **Weaknesses:** falta de garantías, imagen asociada a la especulación y la subida de precios de los alquileres residenciales.
+- **Opportunities:** mejor uso de Facebook, ampliación hacia demográficas de mayor edad vía asistencia telefónica
+- **Threats:** regulaciones del gobierno para los alquileres vacacionales/de corta estancia, el modelo puede ser sustituido por el boca a boca. 
