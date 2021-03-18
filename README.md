@@ -15,9 +15,9 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:  Requena García, Leire        :octocat:    @leirereqgar
- * :bust_in_silhouette:  Romero Lara, Clara María :octocat:    @clarasdfgh
- * :bust_in_silhouette:  Rubio Gil, Atanasio José     :octocat:    @Groctel
+ * :bust_in_silhouette:  Requena García, Leire        :octocat:    [@leirereqgar](https://github.com/leirereqgar)
+ * :bust_in_silhouette:  Romero Lara, Clara María :octocat:    [@clarasdfgh](https://github.com/clarasdfgh)
+ * :bust_in_silhouette:  Rubio Gil, Atanasio José     :octocat:    [@Groctel](https://github.com/Groctel)
 
 -----
 
@@ -46,6 +46,7 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
+
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>  > SE deben incluir claramente los siguientes elementos
 >>>  >
