@@ -17,7 +17,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) {
-        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Grupo_ID ="DIU1.Singapur";
         $scope.Curso ="2020/21";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
 
@@ -48,7 +48,7 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático      Vs Colérico/visceral",     Value: 1 }
 				],
 				Goals: ["Disfrutar del tiempo libre con su novia", "Seguir con su trabajo sin responsabilidades", "Jugar con sus amigos en la consola de última generación"],
-				Frustrations: ["Tiene dificultades para conseguir la consola de última generación", "Tiene peleas con su novia por temas absolutamente insustanciales", "Lleva un par de meses planteándose su relación", "Se ve que su hermana consigue más que él en la vida y le reconcome", "Su relación se encuentra actualmente atascada porque él no tiene más aspiraciones que seguir como está y su novia quiere estudiar y crecer como persona, lo que le hace sentirse inferior e inseguro de sí mismo."],
+				Frustrations: ["Tiene dificultades económicas generales a pesar de tener resueltas sus necesidades básicas.", "Tiene peleas con su novia por temas absolutamente insustanciales", "Lleva un par de meses planteándose su relación", "Se ve que su hermana consigue más que él en la vida y le reconcome", "Su relación se encuentra actualmente atascada porque él no tiene más aspiraciones que seguir como está y su novia quiere estudiar y crecer como persona, lo que le hace sentirse inferior e inseguro de sí mismo."],
 				Bio: "Nacido en Getafe en el lecho de una familia de clase media, disfruta de una vida sin complicaciones gracias a su trabajo. No tiene estudios superiores, pues acabó la ESO sin problemas pero prefirió meterse en un grado medio en Instalaciones de Telecomunicaciones porque 'le interesaba más'. Tras descubrir que no era para él, le dio miedo entrar en bachillerato porque tenía que enfrentarse a 'los años perdidos' y acabó trabajando en un cine. Vive con su pareja en el piso de ella desde hace cuatro años y medio. La conoció en el instituo, perdieron el contacto cuando se fue a estudiar al grado y lo retomaron gracias a un evento de Facebook de antiguos alumnos.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
@@ -88,9 +88,9 @@ angular.module("angular", [])
 					{ Name: "Racional/analitica     Vs Emocional/impulsiva",   Value: 1 },
 					{ Name: "Flemática/apática      Vs Colérica/visceral",     Value: 5 }
 				],
-				Goals: ["Ascender a la directiva de su bufete.", "Comprarse un Tesla con su marido", "Que sus hijas sean registradoras de la propiedad"],
-				Frustrations: ["Una de sus hijas quiere estudiar historia del arte", "Las listas del Tribunal Supremo eligen sospechosamente a más hombres que mujeres", "Sus compañeros de trabajo no rinden todo lo que a ella le gustaría", "No está del todo satisfecha con ninguno de sus sistemas de organización digital"],
-				Bio: "Nacida en Castellón, se mudó a Barcelona para estudiar Derecho con 18 años y a Sabadell a trabajar en un bufete con 25, donde conoció a su actual marido. Tiene una vida perfectamente estructurada gracias a que mantiene una disciplina organizativa perfecta, tanto que la frontera entre la relación con su familia y su agenda laboral queda algo difusa. Lleva diez años trabajando y escalando puestos en su actual bufete, situado en su ciudad de residencia. Es una persona muy sociable que acostumbra a organizar o asistir a cenas caseras con sus amistades y las de su marido. A pesar del alto estatus de ambos, viven de forma medianamente sencila, sin grandes lujos diarios que perfectamente podrían permitirse, prefiriendo dejar más dinero en ocasiones puntuales (aunque el coche es un capricho que se quieren dar).",
+				Goals: ["Ascender a la directiva de su bufete.", "Comprarse un Tesla con su marido", "Que sus hijas sean registradoras de la propiedad neurocirujana."],
+				Frustrations: ["Una de sus hijas quiere estudiar historia del arte", "Las listas del Tribunal Supremo eligen sospechosamente a más hombres que mujeres", "Sus compañeros de trabajo no rinden todo lo que a ella le gustaría", "No está del todo satisfecha con ninguno de sus sistemas de organización digital y los analógicos no le sirven"],
+				Bio: "Nacida en Castellón, disfrutó de su infancia en el seno de una familia acomodada. Durante sus años de educación obligatoria, estudió varias extraescolares relacionadas con las artes, animada por sus padres. Se mudó a Barcelona para estudiar Derecho con 18 años y a Sabadell a trabajar en un bufete con 25, donde conoció a su actual marido. Tiene una vida perfectamente estructurada gracias a que mantiene una disciplina organizativa perfecta, tanto que la frontera entre la relación con su familia y su agenda laboral queda algo difusa. Lleva diez años trabajando y escalando puestos en su actual bufete, situado en su ciudad de residencia. Es una persona muy sociable que acostumbra a organizar o asistir a cenas caseras con sus amistades y las de su marido. A pesar del alto estatus de ambos, viven de forma medianamente sencila, sin grandes lujos diarios que perfectamente podrían permitirse, prefiriendo dejar más dinero en ocasiones puntuales (aunque el coche es un capricho que se quieren dar).",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
 					{ Name: "Mobile",       Value: 5 },

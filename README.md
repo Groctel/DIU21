@@ -45,7 +45,8 @@ Hemos seleccionado a [Iñani Etxebarria](https://github.com/Groctel/DIU21/blob/m
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
+<!-- >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) -->
+Los Journey Maps de [Iñaki](https://github.com/Groctel/DIU21/blob/master/P1/journey-i%C3%B1aki.png) y [Almudena](https://github.com/Groctel/DIU21/blob/master/P1/journey-almudena.png) presentan experiencias normales en el proceso de uso de Booking, motivadas por las circunstancias de cambio inminente de su vida.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----

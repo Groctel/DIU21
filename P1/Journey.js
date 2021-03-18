@@ -19,7 +19,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) {
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU1.Singapur";
         $scope.Curso ="2020/21";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
 
@@ -38,50 +38,50 @@ angular.module("angular", [])
                 Photo: "iñaki.jpg",
 
                 /*** PASO #1: INSPIRACION ***/
-                goal1: "Se encuentra atascado en su relación y quiere escapar un poco de casa. Le ha comentado a su novia que necesita 'ver nuevas tierras para 'aclarar su lugar en este mundo'",
+                goal1: "Quiere ir a Amsterdam con sus colegas del trabajo para pasar unos días de turismo barato y marcha. Un amigo le ha dicho que en Booking se encuentran sitios a buen precio.",
                 touch1: "Móvil",
-                feel1: "3",
-                con1: "Quiere encontrar un lugar al que escaparse pero que el hecho de hacer el viaje no arruíne su relación.",
-                ima1: "cartoon-deciding.png",
+                feel1: "4",
+                con1: "No ha usado nunca Booking y no sabe cómo va a ser la experiencia.",
+                ima1: "cartoon-looking.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Decide ir a Amsterdam con sus colegas del trabajo a visitar las coffee shop y el barrio rojo. ",
-                touch2: "Movil",
-                feel2: "4",
-                con2: "Planear el viaje de forma que su novia no conozca algunos de los detalles más escabrosos.",
-                ima2: "cartoon-planning.png",
+                goal2: "Entra en Booking a buscar habitaciones de hotel baratas para cinco personas.",
+                touch2: "Movil (app de Booking)",
+                feel2: "1",
+                con2: "La interfaz de Booking tiene demasiada información y le cuesta concentrarse.",
+                ima2: "cartoon-PCtyping.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Decide ir a una agencia de viajes para contratar un hotel para varios.",
-                touch3: "Boca a boca",
+                goal3: "Selecciona algunas habitaciones que le parecen bien y se las manda a sus amigos.",
+                touch3: "Movil (app de Booking)",
                 feel3: "2",
-                con3: "Los destinos que le recomiendan son demasiado caros y lujosos para él.",
-                ima3: "cartoon-talking.png",
+                con3: "La información de los destinos está muy fragmentada.",
+                ima3: "cartoon-phoningangry.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Sus colegas le recomiendan una página para escoger alojamientos más acorde al nivel de gastos del grupo.",
-                touch4: "Móvil",
-                feel4: "4",
-                con4: "Lo mejor es que el sitio esté en el centro, cerca de la plaza Dam y que no sea muy caro.",
-                ima4: "cartoon-phone-street.png",
+                goal4: "Busca servicios de hostelería y ocio noctorno en las proximidades de los hoteles que le han confirmado sus amigos.",
+                touch4: "Movil (app de Booking)",
+                feel4: "3",
+                con4: "Tiene que buscar manualmente en Maps porque Booking no ofrece una lista de locales cercanos.",
+                ima4: "cartoon-PChard.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Encuentra dos hostales que se ajustan a su rango de precio.",
-                touch5: "Móvil (nuestra app)",
+                goal5: "Encuentra dos hosteles en zonas que se ajustan a su rango de precio.",
+                touch5: "Movil (app de Booking)",
                 feel5: "4",
-                con5: "No está tan cerca como él querría y su novia sospecha por la ubicación.",
-                ima5: "cartoon-deciding2.png",
+                con5: "El proceso de pago se le hace complicado y no tiene opciones de pago conjunto.",
+                ima5: "cartoon-PCSurprised.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                 goal6: "Consigue reservar gracias a que la interfaz elimina la barrera del idioma.",
-                touch6: "ordenador",
-                feel6: "5",
-                con6: "Está algo preocupado por su vuelta, pero decide no pensar en ello.",
+                 goal6: "Hace la reserva en el hotel que se encuentra más cerca de la Plaza Dam.",
+                touch6: "Movil (app de Booking)",
+                feel6: "4",
+                con6: "Los hoteles le han salido más caros de lo que esperaba.",
                 ima6: "cartoon-phone.png",
 
 			},
@@ -96,50 +96,50 @@ angular.module("angular", [])
                 Photo: "almudena.jpg",
 
 				 /*** PASO #1: INSPIRACION ***/
-                goal1: "Necesita alojarse en un hotel en Madrid para un curso anual de psicología familiar.",
+                goal1: "Necesita alojarse en un hotel en Madrid para un curso anual de psicología familiar. Quiere aprovechar el viaje para reflexionar con su marido sobre si denunciar las prácticas dudosas del Tribunal Supremo.",
                 touch1: "Agenda",
-                feel1: "4",
+                feel1: "2",
                 con1: "Necesita un sitio de alojamiento cercano al lugar de celebración del curso.",
                 ima1: "cartoon-writting2.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Buscar el alojamiento en una página de reserva de hoteles.",
+                goal2: "Entra a buscar el alojamiento en Booking.",
                 touch2: "Agenda",
-                feel2: "3",
+                feel2: "1",
                 con2: "Prefiere ir a una agencia de viajes, pero tiene demasiado poco tiempo con el trabajo como para planteárselo.",
                 ima2: "cartoon-looking.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Busca en varias páginas de viajes un sitio para alojarse con su marido durante la semana del curso para poder hacer un poco de turismo.",
+                goal3: "Encuentra algunas habitaciones que le interesan a las afueras de la ciudad.",
                 touch3: "Servicio (buscador)",
                 feel3: "2",
-                con3: "Las páginas que encuentra tienen una interfaz muy compleja y llena de notificaciones poco fiables sobre la disponibilidad de las habitaciones.",
+                con3: "La interfaz de booking es muy compleja y le cuesta navegar.",
                 ima3: "cartoon-PCangry.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Encuentra algunas habitaciones que le interesan en diferentes páginas.",
+                goal4: "Le envía la información de las habitaciones a su marido para tener su opinión.",
                 touch4: "Servicio (webs de terceros)",
-                feel4: "3",
-                con4: "La información es escasa y le parece poco fiable, por lo que decide llamar directamente a los hoteles.",
+                feel4: "2",
+                con4: "Algunas de las habitaciones tienen menos datos de los que les gustaría y deciden descartarlas.",
                 ima4: "cartoon-phoning.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Recopila información sobre los diferentes hoteles para elegir el mejor.",
+                goal5: "Busca los mejor vuelos para la habitación que han decidido.",
                 touch5: "Teléfono",
-                feel5: "3",
-                con5: "La mayoría de hoteles sólo trabajan por webs externas y su lista se ve enormemente reducida.",
+                feel5: "4",
+                con5: "Los vuelos son muy caros y las horas no le vienen bien.",
                 ima5: "cartoon-writting.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Reserva una habitación en uno de los hoteles de su lista.",
+                goal6: "Reserva la habitación y el vuelo.",
                 touch6: "Servicio (webs de terceros)",
-                feel6: "4",
-                con6: "El proceso se le hace complicado porque las web son muy enrevesadas, pero al menos consigue lo que busca.",
+                feel6: "5",
+                con6: "El proceso se le ha hecho complicado, pero al menos ha conseguido lo que buscaba.",
                 ima6: "cartoon-resting.png",
 
 
