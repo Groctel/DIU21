@@ -40,7 +40,7 @@ A pesar de ello, se mantienen estables.
 -----
 
 <!-- >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres) -->
-Hemos seleccionado a [Iñani Etxebarria](https://github.com/Groctel/DIU21/blob/master/P1/persona-i%C3%B1aki.png) y a [Almudena Smith](https://github.com/Groctel/DIU21/blob/master/P1/persona-almudena.png) porque ambas presentan situaciones de vida de gran dinamismo y son de clases sociales totalmente opuestas.
+Hemos seleccionado a [Iñaki Etxebarria](https://github.com/Groctel/DIU21/blob/master/P1/persona-i%C3%B1aki.png) y a [Almudena Smith](https://github.com/Groctel/DIU21/blob/master/P1/persona-almudena.png) porque ambas presentan situaciones de vida de gran dinamismo y son de clases sociales totalmente opuestas.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -58,7 +58,7 @@ Los Journey Maps de [Iñaki](https://github.com/Groctel/DIU21/blob/master/P1/jou
 <!-- >>>  - Valoración final (numérica): -->
 <!-- >>>  - Comentario sobre la valoración:  (60-120 caracteres) -->
 [Analizamos Booking](https://github.com/Groctel/DIU21/blob/master/P1/Usability-review-template.pdf) porque tiene el modelo de negocio más cercano al nuestro, basado en hoteles más que en alquileres.
-Sus 78 puntos nos indican que ofrece un servicio de calidad con despecfectos que podrían ser mejorables, pero nada fuera de lo común.
+Sus 78 puntos nos indican que ofrece un servicio de calidad con desperfectos que podrían ser mejorables, pero nada fuera de lo común.
 
 ## Paso 2. UX Design
 
