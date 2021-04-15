@@ -4,8 +4,7 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU1_Singapur.  Curso: 2020/21
 Updated: 11/3/2021
 
-Proyecto:
->>> Decida el nombre corto de su propuesta en la práctica 2
+Proyecto: **Intero**
 
 Descripción:
 
@@ -67,8 +66,7 @@ Sus 78 puntos nos indican que ofrece un servicio de calidad con desperfectos que
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
+<!-->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,-->
 
  Interesante | Críticas
 | ------------- | -------
