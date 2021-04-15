@@ -1,7 +1,5 @@
 ## DIU - Practica2, entregables
 
-**[Jamboard con el trabajo pendiente de corrección](https://jamboard.google.com/d/1ktpQuPWJWBPsKznq1_THwIe10fCC0VmKtI8Uii14DCw/viewer?f=0)**
-
 ### Ideación
 * Malla receptora de información
 * Mapa de empatía
@@ -14,8 +12,31 @@
 
 ### TASK ANALYSIS
 
-* User Task Matrix
-* User/Task flow
+Hemos elegido la herramienta del task matrix porque existen dos tipos distintos de usuario (Arrendador y Arrendatario) y es más sencillo ver todas las opciones y cuánto se usan de un solo vistazo.
+
+**Leyenda: None/Low/Medium/High**
+
+| Tareas                        | Arrendadores | Arrendatarios |
+| ----------------------------- | ------------ | ------------- |
+| Crear cuenta                  | L            | L             |
+| Modificar cuenta              | M            | M             |
+| Darse de baja                 | L            | L             |
+| Consultar FAQ                 | M            | M             |
+| Crear nueva ruta              | N            | H             |
+| Marcar ruta como favorita     | N            | H             |
+| Buscar rutas populares        | L            | M             |
+| Compartir ruta                | N            | M             |
+| Buscar alojamiento            | N            | H             |
+| Reservar alojamiento          | N            | M             |
+| Comparar alojamientos         | L            | H             |
+| Marcar oferta como favorita   | N            | M             |
+| Valorar alojamiento           | N            | M             |
+| Valorar usuario               | M            | M             |
+| Enviar mensaje                | M            | M             |
+| Publicar nuevo alojamiento    | L            | N             |
+| Crear una ruta aleatoria      | N            | L             |
+| Comentar sobre un alojamiento | N            | M             |
+| Comentar sobre un usuario     | M            | M             |
 
 
 ### ARQUITECTURA DE INFORMACIÓN
