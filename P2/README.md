@@ -2,19 +2,19 @@
 
 ### Ideación
 En este punto hemos desarrollado más nuestra investigación sobre booking.com; haciendo particular hincapié en aspectos negativos que no queremos repetir en nuestra app. También analizamos cómo nuestras personas sintetizan su percepción sobre sus respectivos viajes. 
-* [Malla receptora de información](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/mallareceptora.png)
+* #### [Malla receptora de información](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/mallareceptora.png)
 
 ![](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/mallareceptora.png)
 
-* [Mapa de empatía: Almudena](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/empathymap_almudena.png)
+* #### [Mapa de empatía: Almudena](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/empathymap_almudena.png)
 
 ![](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/empathymap_almudena.png)
 
-* [Mapa de empatía: Iñaki](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/empathymap_inaki.png)
+* #### [Mapa de empatía: Iñaki](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/empathymap_inaki.png)
 
 ![](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/empathymap_inaki.png)
 
-* Point of View:
+* #### Point of View:
 
 | Usuario  | Descripción del usuario                                      | Necesidades                                                  | *Insight*                                                    |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
