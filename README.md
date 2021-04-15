@@ -6,12 +6,11 @@ Updated: 11/3/2021
 
 Proyecto: **Intero**
 
-Descripción:
-
->>> Describa la idea de su producto en la práctica 2
+Descripción: Intero es una appp de economía colaboratida basada en el *couchsurfing*. Los usuarios ofrecen sus casa para estancias cortas a viajeros dinámicos que no quieren depender de un hotel.
 
 Logotipo:
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+<img src="https://raw.githubusercontent.com/Groctel/DIU21/master/P3/logo.png" style="zoom:5%;" />
 
 Miembros
  * :bust_in_silhouette:  Requena García, Leire        :octocat:    [@leirereqgar](https://github.com/leirereqgar)
@@ -65,46 +64,40 @@ Sus 78 puntos nos indican que ofrece un servicio de calidad con desperfectos que
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+Antes de empezar el diseño de nuestra aplicación hemos investigado más sobre booking.com; haciendo particular hincapié en sus aspectos negativos para evitarlos en todo lo posible. Además hemos vuelto a usar a nuestras personas ficticias para comparar su percepción sobre sus respectivos viajes.
 
-<!-->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,-->
+Para esta tarea hemos utilizado:
 
- Interesante | Críticas
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
-
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+- [Malla receptora de información](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/mallareceptora.png)
+- Mapas de empatía:
+  - [Almudena](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/empathymap_almudena.png)
+  - [Iñaki](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/empathymap_inaki.png)
+- [Point of View](https://github.com/Groctel/DIU21/tree/master/P2#point-of-view)
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor
+Nuestra propuesta es una aplicación para organizar viajes que favorece el trazar una ruta que tenga varias paradas. Los usuarios podrán ofrecer sus casas para que los viajeros se alojen un periodo corto de tiempo durante esas paradas en la ruta.
+
+[Propuesta de valor](https://github.com/Groctel/DIU21/tree/master/P2#propuesta-de-valor)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis
 -----
 
->>> Definir "User Map" y "Task Flow" ...
+Para definir las tareas hemos escogido la *task matrix* para poder visualizar en una sola vez lo que puede hacer cada tipo de usuario, arrendador o arrendatario.
+
+[Task Matrix](https://github.com/Groctel/DIU21/tree/master/P2#task-analysis)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 ----
 
-
->>> Identificar términos para diálogo con usuario
-
-Término | Significado
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+El [*sitemap*](https://github.com/Groctel/DIU21/tree/master/P2#arquitectura-de-informaci%C3%B3n) y los prototipos están pensados para que un usuario pueda adoptar en cualquier momento el rol de arrendador o arrendatario, aunque hay funciones específicas de cada rol.
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+Nuestro [Prototipo Lo-Fi](https://github.com/Groctel/DIU21/tree/master/P2#prototipo-lo-fi-wireframe) está pensado para que la aplicación sea fluida y dinámica.
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
