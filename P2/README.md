@@ -7,8 +7,8 @@
 
 | Usuario  | Descripción del usuario                                      | Necesidades                                                  | *Insight*                                                    |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Iñaki    | Persona joven, no muy acostrumbrada a ningún tipo de papeleo | Alojamiento sin quebraderos de cabeza, quiere llegar a la ciudad sin preocuparse de nada. Necesita que la información del alojamiento sea fácil de entender | No le gusta que al encontrar una habitación que coincida con sus filtros, como el número de camas; a la hora de reservar tenga que volver a repetir todos los parámetros. |
-| Almudena | Persona bien establecida que sabe lo que quiere              | Busca un alojamiento que cumpla sus expectativas y un poco más. No quiere llevarse ninguna sorpresa cuando llegue al alojamiento | No le importa pasar mucho tiempo buscando la habitación perfecta, sin embargo, la aplicación debe estar a la altura devolviendo resultados según los filtros que ha escogido |
+| Iñaki    | Persona joven, no muy acostrumbrada a ningún tipo de papeleo | Alojamiento sin quebraderos de cabeza, quiere llegar a la ciudad sin preocuparse de nada. Necesita que la información del alojamiento sea fácil de entender | Hay que evitar la redundancia con él: por ejemplo, al encontrar y seleccionar una habitación que coincida con sus filtros, cuando reserve esa información debe darse por supuesta. |
+| Almudena | Persona bien establecida que sabe lo que quiere              | Busca un alojamiento que cumpla sus expectativas y un poco más. No quiere llevarse ninguna sorpresa cuando llegue al alojamiento | No le importa pasar mucho tiempo buscando la habitación perfecta, sin embargo, la aplicación debe estar a la altura devolviendo resultados relevantes a los filtros que ha escogido |
 
 
 ### PROPUESTA DE VALOR
@@ -17,31 +17,31 @@
 
 ### TASK ANALYSIS
 
-Hemos elegido la herramienta del task matrix porque existen dos tipos distintos de usuario (Arrendador y Arrendatario) y es más sencillo ver todas las opciones y cuánto se usan de un solo vistazo.
+Hemos elegido la herramienta del *task matrix* porque la existencia de dos tipos distintos de usuario (Arrendador y Arrendatario) hace que sea más fácil de leer e interpretar en este formato.
 
-**Leyenda: None/Low/Medium/High**
 
-| Tareas                        | Arrendadores | Arrendatarios |
-| ----------------------------- | ------------ | ------------- |
-| Crear cuenta                  | L            | L             |
-| Modificar cuenta              | M            | M             |
-| Darse de baja                 | L            | L             |
-| Consultar FAQ                 | M            | M             |
-| Crear nueva ruta              | N            | H             |
-| Marcar ruta como favorita     | N            | H             |
-| Buscar rutas populares        | L            | M             |
-| Compartir ruta                | N            | M             |
-| Buscar alojamiento            | N            | H             |
-| Reservar alojamiento          | N            | M             |
-| Comparar alojamientos         | L            | H             |
-| Marcar oferta como favorita   | N            | M             |
-| Valorar alojamiento           | N            | M             |
-| Valorar usuario               | M            | M             |
-| Enviar mensaje                | M            | M             |
-| Publicar nuevo alojamiento    | L            | N             |
-| Crear una ruta aleatoria      | N            | L             |
-| Comentar sobre un alojamiento | N            | M             |
-| Comentar sobre un usuario     | M            | M             |
+
+| Tareas                        | Arrendadores   | Arrendatarios |
+| ----------------------------- | -------------- | ------------- |
+| Crear cuenta                  | Low            | Low           |
+| Modificar cuenta              | Medium         | Medium        |
+| Darse de baja                 | Low            | Low           |
+| Consultar FAQ                 | Medium         | Medium        |
+| Crear nueva ruta              | None           | High          |
+| Marcar ruta como favorita     | None           | High          |
+| Buscar rutas populares        | Low            | Medium        |
+| Compartir ruta                | None           | Medium        |
+| Buscar alojamiento            | None           | High          |
+| Reservar alojamiento          | None           | Medium        |
+| Comparar alojamientos         | Low            | High          |
+| Marcar oferta como favorita   | None           | Medium        |
+| Valorar alojamiento           | None           | Medium        |
+| Valorar usuario               | Medium         | Medium        |
+| Enviar mensaje                | Medium         | Medium        |
+| Publicar nuevo alojamiento    | Low            | None          |
+| Crear una ruta aleatoria      | None           | Low           |
+| Comentar sobre un alojamiento | None           | Medium        |
+| Comentar sobre un usuario     | Medium         | Medium        |
 
 
 ### ARQUITECTURA DE INFORMACIÓN
