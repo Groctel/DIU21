@@ -5,6 +5,11 @@
 * Mapa de empatía
 * Point of View
 
+| Usuario  | Descripción del usuario                                      | Necesidades                                                  | *Insight*                                                    |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Iñaki    | Persona joven, no muy acostrumbrada a ningún tipo de papeleo | Alojamiento sin quebraderos de cabeza, quiere llegar a la ciudad sin preocuparse de nada. Necesita que la información del alojamiento sea fácil de entender | No le gusta que al encontrar una habitación que coincida con sus filtros, como el número de camas; a la hora de reservar tenga que volver a repetir todos los parámetros. |
+| Almudena | Persona bien establecida que sabe lo que quiere              | Busca un alojamiento que cumpla sus expectativas y un poco más. No quiere llevarse ninguna sorpresa cuando llegue al alojamiento | No le importa pasar mucho tiempo buscando la habitación perfecta, sin embargo, la aplicación debe estar a la altura devolviendo resultados según los filtros que ha escogido |
+
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
