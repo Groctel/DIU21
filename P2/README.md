@@ -20,7 +20,7 @@
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap
+* [Sitemap](https://github.com/Groctel/DIU21/blob/master/P2/Sitemap.png)
 * Labelling
 
 | Etiqueta                         | Descripción                                                                                                                                               |
@@ -39,7 +39,7 @@
 | Reserva del alojamiento          | Interfaz de reserva directa de un alojamiento publicado.                                                                                                  |
 
 
-### Prototipo Lo-FI Wireframe
+### [Prototipo Lo-FI Wireframe](https://github.com/Groctel/DIU21/blob/master/P2/Wireframe.png)
 
 
 ### Conclusiones
