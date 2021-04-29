@@ -1,6 +1,7 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
+https://app.milanote.com/1LC6Te1krzS33x?p=T7DbsfHFqDc
 
 
 ## Landing Page
