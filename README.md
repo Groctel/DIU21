@@ -106,17 +106,11 @@ Nuestro [Prototipo Lo-Fi](https://github.com/Groctel/DIU21/tree/master/P2#protot
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard)
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+<img src="https://raw.githubusercontent.com/Groctel/DIU21/master/P3/export_canvas_moodboard-p3-210514_0941.png">
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
-
->>> Plantear Landing Page
+<img src ="https://raw.githubusercontent.com/Groctel/DIU21/master/P3/landing-page.png">
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -133,10 +127,45 @@ Nuestro [Prototipo Lo-Fi](https://github.com/Groctel/DIU21/tree/master/P2#protot
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+### Introducción
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Buscando formas de organizar unas vacaciones nos encontramos con que los destinos eran los mismos de siempre, masificados hasta el cansancio y acompañados de ofertas de hoteles con todo incluido para que no nos preocupasemos de tener que salir de allí en ningún momento; sin embargo nuestra idea era buscar sitios más recónditos y menos conocidos para poder tener una experiencia más auténtica.
 
+Nuestro objetivo con *Intero* es proporcionar una forma de viaje dónde lo más importante es el camino, descubriendo rincones de paz y compartiendo momentos con todo tipo de gente.
+
+### User personas
+
+Lo primero que hicimos es plantear dos perfiles de [usuarios ficticios](https://github.com/Groctel/DIU21#-1b-persona) lo más distintos posibles y ponerlos en la situación de planear un viaje de la forma tradicional con las que consideramos las plataformas más importantes, Booking y Airbnb.
+
+Después de rellenar sus [mapas de experiencia](https://github.com/Groctel/DIU21#-1c-user-journey-map) al usar Booking empezamos con una tormenta de ideas rellenando la [malla receptora](https://raw.githubusercontent.com/Groctel/DIU21/master/P2/mallareceptora.png), el [mapa de empatía](https://github.com/Groctel/DIU21/tree/master/P2#mapa-de-empat%C3%ADa-almudena) y el [Point of View](https://github.com/Groctel/DIU21/tree/master/P2#point-of-view) de cada uno de nuestros usuarios ficticios destacando los puntos flacos que habíamos encontrado en Booking.
+
+A partir de ahí creamos una [matriz de tareas](https://github.com/Groctel/DIU21/tree/master/P2#task-analysis) con todo lo que podríamos ofrecer en nuestra aplicación.
+
+### Planteamiento de Intero
+
+Al final del día nos acabamos alejando de la forma de negocio de Booking para proponer una alternativa más dirigida a los jóvenes. Distinguiremos entre 2 tipos de usuarios: el arrendador y el arrendatario. 
+
+Con una cuenta en Intero se podrán usar cualquiera de los roles: 
+
+- Si tienes una habitación libre y quieres sacarle provecho puedes publicar su ubicación para alquilarla durante periodos cortos de tiempo a viajeros que necesiten pasar por tu ciudad.
+- Si tu viaje es largo y necesitas dividirlo en varios días podrás crear una ruta con las paradas que necesites para descansar en una cama de verdad.
+
+Con esto en mente empezamos a diseñar el [prototipo LOFI](https://github.com/Groctel/DIU21/tree/master/P2#prototipo-lo-fi-wireframe) de nuestra aplicación de forma que la navegación fuese fluida y lo más sencilla posible.
+
+Teníamos un prototipo, una serie de funcionalidades de nuestro sistema, pero aún teníamos que distinguirnos de la competencia; Intero debía tener una personalidad única y especial para que pudiese reconocerse con un solo vistazo, aunque este fuese superficial; para ello usamos un [moodboard](https://github.com/Groctel/DIU21#-3a-moodboard) escogiendo imágenes que retransmitiesen lo que queríamos y a partir de ellas la paleta de color junto con las tipografías adecuadas. Esto también nos ayudó a diseñar el logo, al pensar en las diferentes paradas del viaja, se nos vino a la cabeza la "chincheta" de aplicaciones como *Google Maps* y como eran pausas en un viaje más largo lo asociamos también al ";" porque no es el final del camino, solo el final de una etapa del viaje.
+
+### Diseño de la Landing Page
+
+Siguiente paso, conseguir que la gente se interesase y descargase la aplicación.
+
+Nuestra Landing Page tenía que ser dinámica y enseñar todo lo que puedes descubrir con intero, los bocetos llevaban ya la idea de lo que sería finalmente: 
+<img src="https://raw.githubusercontent.com/Groctel/DIU21/master/P3/boceto1.jpg">
+
+![](https://raw.githubusercontent.com/Groctel/DIU21/master/P3/boceto2.jpg)
+
+![](https://raw.githubusercontent.com/Groctel/DIU21/master/P3/boceto3.jpg)
+
+Con estas ideas, la paleta de color propuesta del moodboard y las fuentes llegamos a la [solución](https://github.com/Groctel/DIU21#--3b-landing-page).
 
 ## Paso 4. Evaluación
 
