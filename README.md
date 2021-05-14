@@ -167,6 +167,14 @@ Nuestra Landing Page tenía que ser dinámica y enseñar todo lo que puedes desc
 
 Con estas ideas, la paleta de color propuesta del moodboard y las fuentes llegamos a la [solución](https://github.com/Groctel/DIU21#--3b-landing-page).
 
+### 2º prototipo
+
+Decidimos no cambiar mucho el prototipo de la aplicación inicial, nos resultaba sencillo y agradable de usar. Con [figma](https://www.figma.com/proto/hXySVlS2NchZVPwYd9BP1E/Untitled?node-id=4%3A4&scaling=scale-down&page-id=3%3A2) recreamos lo que sería nuestra aplicación añadiéndole cierta "navegabilidad" para probar de forma interactiva como sería.
+
+### Siguientes pasos
+
+Ya solo quedaría codificar toda la aplicación y testear todas las funciones. Por último se promocionaría por redes sociales como Instagram para atraer ese público joven al que va dirigida.
+
 ## Paso 4. Evaluación
 
 
