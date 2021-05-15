@@ -143,9 +143,9 @@ A partir de ahí creamos una [matriz de tareas](https://github.com/Groctel/DIU21
 
 ### Planteamiento de Intero
 
-Al final del día nos acabamos alejando de la forma de negocio de Booking para proponer una alternativa más dirigida a los jóvenes. Distinguiremos entre 2 tipos de usuarios: el arrendador y el arrendatario. 
+Al final del día nos acabamos alejando de la forma de negocio de Booking para proponer una alternativa más dirigida a los jóvenes. Distinguiremos entre 2 tipos de usuarios: el arrendador y el arrendatario.
 
-Con una cuenta en Intero se podrán usar cualquiera de los roles: 
+Con una cuenta en Intero se podrán usar cualquiera de los roles:
 
 - Si tienes una habitación libre y quieres sacarle provecho puedes publicar su ubicación para alquilarla durante periodos cortos de tiempo a viajeros que necesiten pasar por tu ciudad.
 - Si tu viaje es largo y necesitas dividirlo en varios días podrás crear una ruta con las paradas que necesites para descansar en una cama de verdad.
@@ -158,7 +158,7 @@ Teníamos un prototipo, una serie de funcionalidades de nuestro sistema, pero a�
 
 Siguiente paso, conseguir que la gente se interesase y descargase la aplicación.
 
-Nuestra Landing Page tenía que ser dinámica y enseñar todo lo que puedes descubrir con intero, los bocetos llevaban ya la idea de lo que sería finalmente: 
+Nuestra Landing Page tenía que ser dinámica y enseñar todo lo que puedes descubrir con intero, los bocetos llevaban ya la idea de lo que sería finalmente:
 <img src="https://raw.githubusercontent.com/Groctel/DIU21/master/P3/boceto1.jpg">
 
 ![](https://raw.githubusercontent.com/Groctel/DIU21/master/P3/boceto2.jpg)
@@ -170,6 +170,10 @@ Con estas ideas, la paleta de color propuesta del moodboard y las fuentes llegam
 ### 2º prototipo
 
 Decidimos no cambiar mucho el prototipo de la aplicación inicial, nos resultaba sencillo y agradable de usar. Con [figma](https://www.figma.com/proto/hXySVlS2NchZVPwYd9BP1E/Untitled?node-id=4%3A4&scaling=scale-down&page-id=3%3A2) recreamos lo que sería nuestra aplicación añadiéndole cierta "navegabilidad" para probar de forma interactiva como sería.
+
+**Vídeo de demostración:**
+
+[![Prototipo Intero](https://img.youtube.com/vi/dKW0SyY8YRs/0.jpg)](https://www.youtube.com/watch?v=dKW0SyY8YRs)
 
 ### Siguientes pasos
 
