@@ -6,7 +6,7 @@ Updated: 11/3/2021
 
 Proyecto: **Intero**
 
-Descripción: Intero es una app de economía colaboratida basada en el *couchsurfing*. Los usuarios ofrecen sus casas para estancias cortas a viajeros dinámicos que no quieren depender de un hotel.
+Descripción: Intero es una app de economía colaborativa basada en el *couchsurfing*. Los usuarios ofrecen sus casas para estancias cortas a viajeros dinámicos que no quieren depender de un hotel.
 
 Logotipo:
 
