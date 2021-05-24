@@ -10,7 +10,7 @@ El caso A se trataba de nuestra propia propuesta: Intero.
 
 ## Caso 2
 
-El primer caso B (o B1) se trataba de Granading, desarrollado por el grupo Mastodontes.  
+El primer caso B (o B1) se trataba de [Granading - Desarrollado por Mastodontes](https://github.com/eProw/DIU21).  
 
 A este caso se le asignaron las siguientes personas:
 
@@ -21,12 +21,12 @@ A este caso se le asignaron las siguientes personas:
 
 Y obtuvo una puntuación SUS media de 60, lo que le da un **Notable** en nuestro modelo de calificación.
 
-Puede consultar a continuación el [**Usability Report**]().
+Puede consultar a continuación el [**Usability Report**](https://github.com/Groctel/DIU21/blob/master/P4/P4_UsabReport_Granading_doneby_DIU1_Singapur.pdf).
 
 
 ## Caso 3
 
-El segundo caso B (o B2) se trataba de SevillaFacil, desarrollado por el grupo Matematicos.  
+El segundo caso B (o B2) se trataba de [SevillaFacil - Desarrollado por Matematicos](https://github.com/laurasanpa/DIU21).  
 
 A este caso se le asignaron las siguientes personas:
 
@@ -38,7 +38,7 @@ A este caso se le asignaron las siguientes personas:
 
 Y obtuvo una puntuación SUS media de 53.67, lo que le da un **Bien** en nuestro modelo de calificación.
 
-Puede consultar a continuación el [**Usability Report**]().
+Puede consultar a continuación el [**Usability Report**](https://github.com/Groctel/DIU21/blob/master/P4/P4_UsabReport_Sevillafacil_doneby_DIU1_Singapur.pdf).
 
 ## User Testing
 
