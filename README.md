@@ -133,14 +133,20 @@ Hemos resumido toda la información de la creación y diseño de nuestro [Case-S
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+Se nos asignaron dos casos:
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+- [B1, Granading - Desarrollado por Mastodontes](https://github.com/eProw/DIU21)
+- [B2, SevillaFacil - Desarrollado por Matematicos](https://github.com/laurasanpa/DIU21)
+
+Nuestro caso, Intero, sería el A.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+Para el desarrollo del cuestionario SUS hemos generado y asignado aleatoriamente un total de seis *user personas*. Nos pondremos en su lugar para responder al cuestionario y plantearemos qué facilidades y detrimentos tienen al utilizar sus respectivas aplicaciones.
+
+A cada aplicación se le han asignado dos personas ficticias. A continuación se detallan:
 
 | #id.usuario | Sexo/edad | Ocupación   | Exp. TIC   | Plataforma      | Perfil cubierto                  | TEST | SUS Score |
 | ----------- | --------- | ----------- | ---------- | --------------- | -------------------------------- | ---- | --------- |
@@ -155,9 +161,13 @@ Hemos resumido toda la información de la creación y diseño de nuestro [Case-S
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+El cuestionario SUS se lleva a cabo mediante un [formulario de Google](). La puntuación se calcula automáticamente en la hoja de calculo derivada de las respuestas, siguiendo la siguiente rúbrica: 
+
+- Para las preguntas pares: restar 1 al valor dado como respuesta
+- Para las preguntas impares: restar el valor dado como respuesta a 5
+- Finalmente, sumar las puntuaciones obtenidas anteriormente y multiplicar por 2.5
+
+Nuestra interpretación para los resultados es: menos de 50, Suspenso; entre 50 y 60, Bien; entre 60 y 80, Notable; más de 80, Sobresaliente.
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal
 
@@ -165,11 +175,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Consulta [aquí]() el Usability Report de Granading, por Mastodontes.
 
-
-
->>> Valoración personal
+Consulta [aquí]() el Usability Report de SevillaFacil, por Matematicos.
 
 
 ## Paso 5. Evaluación de Accesibilidad
