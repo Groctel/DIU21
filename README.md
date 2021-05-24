@@ -161,7 +161,7 @@ A cada aplicación se le han asignado dos personas ficticias. A continuación se
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-El cuestionario SUS se lleva a cabo mediante un [formulario de Google](). La puntuación se calcula automáticamente en la hoja de calculo derivada de las respuestas, siguiendo la siguiente rúbrica: 
+El cuestionario SUS se lleva a cabo mediante un [formulario de Google](https://forms.gle/m2CVnHqrqdiFm4zb9). La puntuación se calcula automáticamente en la hoja de calculo derivada de las respuestas, siguiendo la siguiente rúbrica: 
 
 - Para las preguntas pares: restar 1 al valor dado como respuesta
 - Para las preguntas impares: restar el valor dado como respuesta a 5
@@ -169,15 +169,20 @@ El cuestionario SUS se lleva a cabo mediante un [formulario de Google](). La pun
 
 Nuestra interpretación para los resultados es: menos de 50, Suspenso; entre 50 y 60, Bien; entre 60 y 80, Notable; más de 80, Sobresaliente.
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal
+A continuación se muestran los resultados del cuestionario SUS, tanto en gráficas como unos extractos de la hoja de calculo que refleja los resultados:
 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/Groctel/DIU21/master/P4/ResultadosSUS_graphs.png" align="center"/>
+  <img src="https://raw.githubusercontent.com/Groctel/DIU21/master/P4/ResultadosSUS_sheet1.png" align="center"/>
+  <img src="https://raw.githubusercontent.com/Groctel/DIU21/master/P4/ResultadosSUS_sheet2.png" align="center" />
+</p>
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Consulta [aquí]() el Usability Report de Granading, por Mastodontes.
+Consulta [aquí](https://github.com/Groctel/DIU21/blob/master/P4/P4_UsabReport_Granading_doneby_DIU1_Singapur.pdf) el Usability Report de Granading, por Mastodontes.
 
-Consulta [aquí]() el Usability Report de SevillaFacil, por Matematicos.
+Consulta [aquí](https://github.com/Groctel/DIU21/blob/master/P4/P4_UsabReport_Sevillafacil_doneby_DIU1_Singapur.pdf) el Usability Report de SevillaFacil, por Matematicos.
 
 
 ## Paso 5. Evaluación de Accesibilidad
