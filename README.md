@@ -151,7 +151,7 @@ A cada aplicación se le han asignado dos personas ficticias. A continuación se
 | #id.usuario | Sexo/edad | Ocupación   | Exp. TIC   | Plataforma      | Perfil cubierto                  | TEST | SUS Score |
 | ----------- | --------- | ----------- | ---------- | --------------- | -------------------------------- | ---- | --------- |
 | 1           | Otro/23   | Estudiante  | Bajo       | Android         | Joven, cultura, asco             | A    | 72,5      |
-| 2           | Mujer/20  | Desempleado | Avanzado   | IPadOS          | Joven, organización tristeza     | A    | 87,5      |
+| 2           | Mujer/26  | Desempleado | Avanzado   | IPadOS          | Joven, organización tristeza     | A    | 87,5      |
 | 3           | Hombre/55 | Empleado    | Intermedio | IOS             | Trabajador, deportes, enfado     | B1   | 62,5      |
 | 4           | Mujer/41  | Funcionaria | Bajo       | Windows(tablet) | Amigos, cultura, felicidad       | B1   | 57,5      |
 | 5           | Hombre/64 | Estudiante  | Intermedio | Windows(tablet) | Anciano, idiomas, tristeza       | B2   | 27,5      |
