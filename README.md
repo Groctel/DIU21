@@ -143,6 +143,13 @@ Nuestro caso, Intero, sería el A.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
+Para desarrollar un modelo *A-B-C Testing* en las condiciones más justas posibles dado el material de cada proyecto, hemos planteado un formulario de Google. Este cuestionario ha sido rellenado por personas ajenas a los proyectos que posteriormente nos han dado un *feedback* sobre su experiencia.
+
+Puedes ver los resultados y los comentarios de los evaluadores en profundidad en el [README de la práctica 4](https://github.com/Groctel/DIU21/tree/master/P4#user-testing).
+
+
+![Método UX](img/Survey.png). 4.c Cuestionario SUS
+----
 
 Para el desarrollo del cuestionario SUS hemos generado y asignado aleatoriamente un total de seis *user personas*. Nos pondremos en su lugar para responder al cuestionario y plantearemos qué facilidades y detrimentos tienen al utilizar sus respectivas aplicaciones.
 
@@ -156,10 +163,6 @@ A cada aplicación se le han asignado dos personas ficticias. A continuación se
 | 4           | Mujer/41  | Funcionaria | Bajo       | Windows(tablet) | Amigos, cultura, felicidad       | B1   | 57,5      |
 | 5           | Hombre/64 | Estudiante  | Intermedio | Windows(tablet) | Anciano, idiomas, tristeza       | B2   | 27,5      |
 | 6           | Otro/34   | Autónomo    | Avanzado   | IOS             | Minusválido, académica, sorpresa | B2   | 80        |
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
-----
 
 El cuestionario SUS se lleva a cabo mediante un [formulario de Google](https://forms.gle/m2CVnHqrqdiFm4zb9). La puntuación se calcula automáticamente en la hoja de calculo derivada de las respuestas, siguiendo la siguiente rúbrica: 
 
