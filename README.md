@@ -188,28 +188,11 @@ Consulta [aquí](https://github.com/Groctel/DIU21/blob/master/P4/P4_UsabReport_G
 Consulta [aquí](https://github.com/Groctel/DIU21/blob/master/P4/P4_UsabReport_Sevillafacil_doneby_DIU1_Singapur.pdf) el Usability Report de SevillaFacil, por Matematicos.
 
 
-## Paso 5. Evaluación de Accesibilidad
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
->>> 5.b) Uso de simuladores de accesibilidad
-
->>> (uso de tabla de datos, indicar herramientas usadas)
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
-
 ## Conclusión final / Valoración de las prácticas
 
+Esta asignatura y su metodología de diseño nos han sacado de nuestra zona confort: desde el principio hemos trabajado desde una perspectiva a la que no estamos acostrumbrados. A pesar de ello, la metodología UX ha demostrado eficacia a la hora de desarrollar un producto software (aunque se puede aplicar a más cosas). El modelo ágil e iterativo funciona, si bien no hemos refinado el proyecto tanto cómo nos gustaría pues, debido a la naturaleza de las prácticas, no hay mucho tiempo para iterar y volver a revisar el contenido que vamos haciendo.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos
-
+En definitiva, creemos que hemos construido entre los tres un proyecto bastante digno, y nos da seguridad saber que nuestro producto se ha desarrollado siempre con las personas que lo van a usar en mente.
 
 
 
